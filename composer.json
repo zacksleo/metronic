@@ -1,0 +1,13 @@
+{
+    "name": "zacksleo/metronic",
+    "description": "Metronic Theme Asset",
+    "type": "asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zacksleo",
+            "email": "zacksleo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,1 @@
+[![build status](http://139.198.9.208/zacksleo/metronic/badges/master/build.svg)](http://139.198.9.208/zacksleo/metronic/commits/master)
