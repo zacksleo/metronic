@@ -1,0 +1,24 @@
+{
+  "name": "zacksleo-metronic",
+  "version": "4.7.5",
+  "description": "metronic theme asset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacksleo/metronic.git"
+  },
+  "keywords": [
+    "metronic",
+    "theme",
+    "assets"
+  ],
+  "author": "metronic",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "hhttps://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469/comments"
+  },
+  "homepage": "http://www.keenthemes.com/"
+}
