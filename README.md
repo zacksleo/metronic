@@ -1,1 +1,9 @@
-[![build status](http://139.198.9.208/zacksleo/metronic/badges/master/build.svg)](http://139.198.9.208/zacksleo/metronic/commits/master)
+# metronic assets 
+
+## Version 4.7.5.3
+
+## Install
+
+### Composer 
+
+`composer require zacksleo/metronic`
