@@ -1,6 +1,6 @@
 {
   "name": "zacksleo-metronic",
-  "version": "4.7.5",
+  "version": "4.7.6",
   "description": "metronic theme asset",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "assets"
   ],
   "author": "metronic",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "hhttps://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469/comments"
   },
